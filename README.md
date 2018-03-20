@@ -7,5 +7,7 @@ This repository contains a .json file and jupyter notebook which are used to cal
 ## How-To
 Executing the jupyter notebook requires installation of Pandeia and the Pandeia data package (see the STScI-SSB/pandeia and STScI-SSB/pandeia_data repositories). Installation of Pandeia should automatically install any dependencies.
 
+The .json file can be copied and changes made to run the calculations with different settings. .json files can be opened with a text editor, and the parameters should be self-explanatory for regular ETC users. For further details on input and output options for Pandeia json files, see the entries in [https://github.com/spacetelescope/pandeia-tutorials/tree/master/reference][this repository].
+
 ## Author, Date
 Sarah Kendrew, sarah.kendrew@esa.int -- March 20th 2018
